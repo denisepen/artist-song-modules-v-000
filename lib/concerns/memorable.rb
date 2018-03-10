@@ -6,6 +6,6 @@ module Memorable
   end
 
   def count
-    @@aall.count
+    @@all.count
   end
 end
